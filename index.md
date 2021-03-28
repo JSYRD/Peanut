@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎来到恶臭领域（bushi
 
-You can use the [editor on GitHub](https://github.com/JSYRD/Peanut/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这里是菜鸡的gh pages，可能会用来写博客，也有可能会分享一些资源什么的
+
+顺带一提，欢迎加入 [EcnuCsers](http://wdnmd.usm.bio/)，一个非官方小型论坛！
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
