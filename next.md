@@ -1,10 +1,11 @@
 ## 欢迎来到恶臭领域（bushi
 
-这里是菜鸡的gh pages，可能会用来写博客，也有可能会分享一些资源什么的
 
-顺带一提，欢迎加入 [EcnuCsers](http://wdnmd.usm.bio/)，一个非官方小型论坛！
+这只是一个子页面而已。
 
-测试: [next](https://114514.lu.mk/next.md)
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
