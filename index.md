@@ -4,7 +4,9 @@
 
 顺带一提，欢迎加入 [EcnuCsers](http://wdnmd.usm.bio/)，一个非官方小型论坛！
 
-测试: [《关于我第一次在宿舍尝试组建服务器这件事》](https://114514.lu.mk/blog1.html)
+Blog1: [《关于我第一次在宿舍尝试组建服务器这件事》](https://114514.lu.mk/blog1.html)
+
+Blog2: [《关于我第一次安装双系统Ubuntu搞了三个多小时这件事》](https://114514.lu.mk/blog2.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
