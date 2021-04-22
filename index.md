@@ -4,11 +4,13 @@
 
 顺带一提，欢迎加入 [EcnuCsers](http://wdnmd.usm.bio/)，一个非官方小型论坛！
 
-Note1: [MarkdownNote](https://114514.lu.mk/../../MarkdownNote.html)
+Note 1: [MarkdownNote](https://114514.lu.mk/../../MarkdownNote.html)
 
-Blog1: [《关于我第一次在宿舍尝试组建服务器这件事》](https://114514.lu.mk/blog1.html)
+Blog 1: [《关于我第一次在宿舍尝试组建服务器这件事》](https://114514.lu.mk/blog1.html)
 
-Blog2: [《关于我第一次安装双系统Ubuntu搞了三个多小时这件事》](https://114514.lu.mk/blog2.html)
+Blog 2: [《关于我第一次安装双系统Ubuntu搞了三个多小时这件事》](https://114514.lu.mk/blog2.html)
+
+Blog 3: [Ubuntu20.04降低内核版本](https://114514.lu.mk/Ubuntu20.04降低内核版本.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
