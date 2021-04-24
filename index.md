@@ -1,47 +1,15 @@
-## 欢迎来到恶臭领域（bushi
+# 欢迎来到恶臭领域（bushi
 
 这里是菜鸡的gh pages，可能会用来写博客，也有可能会分享一些资源什么的
 
 顺带一提，欢迎加入 [EcnuCsers](http://wdnmd.usm.bio/)，一个非官方小型论坛！
 
-Note 1: [MarkdownNote](https://114514.lu.mk/../../MarkdownNote.html)
+戳[这里](https:114514.lu.mk/BlogsandNotes.html)看好康的 Blogs & Notes!
 
-Blog 1: [《关于我第一次在宿舍尝试组建服务器这件事》](https://114514.lu.mk/blog1.html)
 
-Blog 2: [《关于我第一次安装双系统Ubuntu搞了三个多小时这件事》](https://114514.lu.mk/blog2.html)
 
-Blog 3: [Ubuntu20.04降低内核版本](https://114514.lu.mk/Ubuntu20.04降低内核版本.html)
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JSYRD/Peanut/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2021.4.24 更新了个主页
