@@ -4,7 +4,7 @@
 
 顺带一提，欢迎加入 [EcnuCsers](http://wdnmd.usm.bio/)，一个非官方小型论坛！
 
-戳 [这里](https://114514.lu.mk/BlogsandNotes.html) 看好康的 Blogs & Notes!
+戳 [这里](https://www.feipa.top/BlogsandNotes.html) 看好康的 Blogs & Notes!
 
 
 
