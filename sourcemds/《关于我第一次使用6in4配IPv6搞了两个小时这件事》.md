@@ -63,14 +63,14 @@
 
 登录完成后，点击左下角*User Functions*中的*Create Regular Tunnel*。
 
-![image-20210923230912867](https://www.feipa.top/MBlogs/pics/image-20210923230912867.png)
+![image-20210923230912867](./pics/image-20210923230912867.png)
 
 ​	IPv4 Endpoint(Your side): 既是填写你的公网IP，通常是下面显示的那个。如果红色报错，可能是由于防火墙或者是映射问题，可以尝试设置NAT或者DMZ主机解决。
 
 ​	节点一般自动选择的是延迟最低的，如果发现有延迟更低的可以选择其他选项。
 ​	填写完毕后往下拉，点击Create Tunnel。进入新的页面后点击中间的的*Example Configurations*,在下面的下拉菜单中选择自己使用的系统。（这里以Win10举例。P.S.:其实我用的是Win11，但是无伤大雅）
 
-![image-20210923231330411](https://www.feipa.top/MBlogs/pics/image-20210923231330411.png)
+![image-20210923231330411](./pics/image-20210923231330411.png)
 
 ​	将框内指令复制下来。
 
@@ -116,7 +116,7 @@ netsh interface ipv6 add route prefix=::/0 interface=IP6Tunnel nexthop=2001:xxxx
 
 但是这个速度和延迟。。。。。。。算了  能用已经不错了。
 
-![image-20210923232737919](https://www.feipa.top/MBlogs/pics/image-20210923232737919.png)
+![image-20210923232737919](./pics/image-20210923232737919.png)
 
 
 
@@ -140,3 +140,4 @@ netsh interface isatap set state disable
 
 
 最近应该还会更一期OpenWrt passwall的食用方法（
+
