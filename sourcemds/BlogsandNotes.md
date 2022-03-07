@@ -24,6 +24,8 @@ MBlog 2: [《关于我第一次被迫使用阿里云和被查水表以及使用�
 
 MBlog 3:[《关于我第一次折腾路由器差点翻车这件事》](https://www.feipa.top/MBlogs/《关于我第一次折腾路由器差点翻车这件事》.html)
 
+MBlog 4:[《关于我第一次使用6in4配IPv6搞了两个小时这件事》](https://www.feipa.top/MBlogs/《关于我第一次使用6in4配IPv6搞了两个小时这件事》.html)
+
 ---
 
 **Notes :**
@@ -35,3 +37,4 @@ Note 1: [MarkdownNote](https://www.feipa.top/MBlogs/MarkdownNote.html)
 
 
 **持续更新中**
+
