@@ -6,7 +6,7 @@
 
 戳 [这里](https://www.feipa.top/BlogsandNotes.html) 看好康的 Blogs & Notes!
 
-
+点 [这里](https://raw.githubusercontent.com/JSYRD/Peanut/gh-pages/files/今日币价.exe) 下载今日币价!
 
 ---
 
