@@ -23,15 +23,15 @@
 
 **以下为简单目录**
 
-###[1. 6in4以及简单介绍](#1.1)
+**[1. 6in4以及简单介绍](#1.1)**
 
-###[2. Hurricane Electric注册和申请](#1.2)
+**[2. Hurricane Electric注册和申请](#1.2)**
 
-###[3. 本地配置(**NAT**)](#1.3)
+**[3. 本地配置(**NAT**)](#1.3)**
 
-###[4. 删除](#1.4)
+**[4. 删除](#1.4)**
 
-###[胡言乱语](#1.5)
+**[胡言乱语](#1.5)**
 
 ----
 
@@ -74,7 +74,7 @@
 
 ​	将框内指令复制下来。
 
-```powershell
+```shell
 netsh interface teredo set state disabled
 netsh interface ipv6 add v6v4tunnel interface=IP6Tunnel localaddress=180.160.65.9 remoteaddress=66.220.18.42
 netsh interface ipv6 add address interface=IP6Tunnel address=2001:xxx:xxxx:xxxx::2
@@ -98,49 +98,34 @@ netsh interface ipv6 add route prefix=::/0 interface=IP6Tunnel nexthop=2001:xxxx
 
 修改好后用管理员权限打开cmd，依次复制粘贴运行。
 
-<h2 id='1.3'>本地配置（NAT）
+<h2 id='1.3'>本地配置（NAT）</h2>
 
 前面已经讲到，可以在路由器中配置DMZ主机或者NAT映射。
 
 本地基本上只需要配置DNS服务器。控制面板->网络和共享中心->更改适配器设置->双击你正在使用的网络链接->属性->Internet 协议版本 6 (TCP/IPv6)->选择使用下面的 DNS 服务器地址 ->填入 `2001:470:20::2` ->确定确定
 
-
-
 至此，打开[IPv6Test](https://www.test-ipv6.com/)应该已经可以看到成功了。
-
-
-
-
-
-
 
 但是这个速度和延迟。。。。。。。算了  能用已经不错了。
 
 ![image-20210923232737919](../pics/image-20210923232737919.png)
 
 
-
 <h2 id='1.4'>删除</h2>
-```powershell
+
+```shell
 netsh interface ipv6 reset
 netsh int ipv6 delete interface "IP6Tunnel"
 netsh interface teredo set state disable
 netsh interface isatap set state disable
-
 ```
 
 <h2 id='1.5'>胡言乱语</h2>
 
-***我是傻宝***
-
-
-
-
-
+ ***我是傻宝***
 
 
 最近应该还会更一期OpenWrt passwall的食用方法（
 
 
-
-*By JSYRD*
+ *By JSYRD*
