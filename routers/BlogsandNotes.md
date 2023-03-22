@@ -37,6 +37,8 @@ Note 1: [MarkdownNote](https://www.feipa.top/MBlogs/MarkdownNote.html)
 最近在使用百度地图开放平台！有些共性的问题来写几篇博客！
 *[仓库地址](https://github.com/polan233/siyuan-frontend)*
 
+* [百度地图历险记之LuShu全解](https://www.feipa.top/MBlogs/百度地图历险记之LuShu全解.html)
+
 **百度地图开发日记：**
 
 ---
