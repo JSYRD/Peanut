@@ -26,6 +26,8 @@ MBlog 3:[《关于我第一次折腾路由器差点翻车这件事》](https://w
 
 MBlog 4:[《关于我第一次使用6in4配IPv6搞了两个小时这件事》](https://www.feipa.top/MBlogs/《关于我第一次使用6in4配IPv6搞了两个小时这件事》.html)
 
+MBlog 5:[首战Flutter开发tflite记录](https://www.feipa.top/MBlogs/首战Flutter开发tflite记录.html)
+
 ---
 
 **Notes :**
