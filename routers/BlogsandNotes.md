@@ -45,6 +45,8 @@ Note 1: [MarkdownNote](https://www.feipa.top/MBlogs/MarkdownNote.html)
 
 ---
 
+* 2023学年整理: [写在大三结束前](https://www.feipa.top/MBlogs/写在大三结束前.html)
+
 
 
 **持续更新中**
